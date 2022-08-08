@@ -1,7 +1,10 @@
-﻿int numberA=5;
-int numberB=7;
-int max=numberA;
-if (numberA>max) max=numberA;
-if (numberB>max) max=numberB;
-Console.Write("max= ");
-Console.WriteLine(max);
+﻿int numberA=-3;
+int numberB=-9;
+if (numberA>numberB) 
+{
+ Console.WriteLine ("Первое число"+ numberA +"больше чем второе" +numberB);
+}
+else
+{
+  Console.WriteLine ("Первое число"+ numberB +"больше чем второе" +numberA);  
+}
