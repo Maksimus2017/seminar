@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\Seminar\День недели\obj\Debug\net6.0\День недели.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Seminar\День недели\obj\Debug\net6.0\День недели.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\Seminar\День недели\obj\Debug\net6.0\День недели.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\Seminar\День недели\obj\Debug\net6.0\День недели.AssemblyInfo.cs
+C:\Users\Максим\Desktop\Seminar\День недели\obj\Debug\net6.0\День недели.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Seminar\День недели\bin\Debug\net6.0\День недели.exe
+C:\Users\Максим\Desktop\Seminar\День недели\bin\Debug\net6.0\День недели.deps.json
+C:\Users\Максим\Desktop\Seminar\День недели\bin\Debug\net6.0\День недели.runtimeconfig.json
+C:\Users\Максим\Desktop\Seminar\День недели\bin\Debug\net6.0\День недели.dll
+C:\Users\Максим\Desktop\Seminar\День недели\bin\Debug\net6.0\День недели.pdb
+C:\Users\Максим\Desktop\Seminar\День недели\obj\Debug\net6.0\День недели.dll
+C:\Users\Максим\Desktop\Seminar\День недели\obj\Debug\net6.0\refint\День недели.dll
+C:\Users\Максим\Desktop\Seminar\День недели\obj\Debug\net6.0\День недели.pdb
+C:\Users\Максим\Desktop\Seminar\День недели\obj\Debug\net6.0\День недели.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Seminar\День недели\obj\Debug\net6.0\ref\День недели.dll
