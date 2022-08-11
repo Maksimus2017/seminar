@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\obj\Debug\net6.0\Большее число из двузначного.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\obj\Debug\net6.0\Большее число из двузначного.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\obj\Debug\net6.0\Большее число из двузначного.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\obj\Debug\net6.0\Большее число из двузначного.AssemblyInfo.cs
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\obj\Debug\net6.0\Большее число из двузначного.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\bin\Debug\net6.0\Большее число из двузначного.exe
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\bin\Debug\net6.0\Большее число из двузначного.deps.json
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\bin\Debug\net6.0\Большее число из двузначного.runtimeconfig.json
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\bin\Debug\net6.0\Большее число из двузначного.dll
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\bin\Debug\net6.0\Большее число из двузначного.pdb
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\obj\Debug\net6.0\Большее число из двузначного.dll
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\obj\Debug\net6.0\refint\Большее число из двузначного.dll
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\obj\Debug\net6.0\Большее число из двузначного.pdb
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\obj\Debug\net6.0\Большее число из двузначного.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Seminar\Большее число из двузначного\obj\Debug\net6.0\ref\Большее число из двузначного.dll
