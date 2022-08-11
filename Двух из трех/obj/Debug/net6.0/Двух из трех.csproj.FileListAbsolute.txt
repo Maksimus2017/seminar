@@ -3,3 +3,13 @@ C:\Users\Максим\Desktop\Seminar\Двух из трех\obj\Debug\net6.0\Д
 C:\Users\Максим\Desktop\Seminar\Двух из трех\obj\Debug\net6.0\Двух из трех.AssemblyInfoInputs.cache
 C:\Users\Максим\Desktop\Seminar\Двух из трех\obj\Debug\net6.0\Двух из трех.AssemblyInfo.cs
 C:\Users\Максим\Desktop\Seminar\Двух из трех\obj\Debug\net6.0\Двух из трех.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Seminar\Двух из трех\bin\Debug\net6.0\Двух из трех.exe
+C:\Users\Максим\Desktop\Seminar\Двух из трех\bin\Debug\net6.0\Двух из трех.deps.json
+C:\Users\Максим\Desktop\Seminar\Двух из трех\bin\Debug\net6.0\Двух из трех.runtimeconfig.json
+C:\Users\Максим\Desktop\Seminar\Двух из трех\bin\Debug\net6.0\Двух из трех.dll
+C:\Users\Максим\Desktop\Seminar\Двух из трех\bin\Debug\net6.0\Двух из трех.pdb
+C:\Users\Максим\Desktop\Seminar\Двух из трех\obj\Debug\net6.0\Двух из трех.dll
+C:\Users\Максим\Desktop\Seminar\Двух из трех\obj\Debug\net6.0\refint\Двух из трех.dll
+C:\Users\Максим\Desktop\Seminar\Двух из трех\obj\Debug\net6.0\Двух из трех.pdb
+C:\Users\Максим\Desktop\Seminar\Двух из трех\obj\Debug\net6.0\Двух из трех.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Seminar\Двух из трех\obj\Debug\net6.0\ref\Двух из трех.dll
