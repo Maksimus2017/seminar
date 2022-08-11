@@ -1,4 +1,10 @@
-﻿Console.Write("Введите трехзначное число: ");
+﻿Console.Write("Введите число: ");
 int num = int.Parse(Console.ReadLine());
-int result=((num%100)/10);
-Console.WriteLine($"Второе число {result} трехзначного числа {num}");
+if (num<1||num<99)
+{
+    Console.WriteLine("Третьего числа нет");
+}
+else if(num>100)
+{int result=(num/100);
+
+Console.WriteLine($"Третье число {result} заданного числа {num}");}
