@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\Seminar\Второе из трех\obj\Debug\net6.0\Второе из трех.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Seminar\Второе из трех\obj\Debug\net6.0\Второе из трех.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\Seminar\Второе из трех\obj\Debug\net6.0\Второе из трех.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\Seminar\Второе из трех\obj\Debug\net6.0\Второе из трех.AssemblyInfo.cs
+C:\Users\Максим\Desktop\Seminar\Второе из трех\obj\Debug\net6.0\Второе из трех.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Seminar\Второе из трех\bin\Debug\net6.0\Второе из трех.exe
+C:\Users\Максим\Desktop\Seminar\Второе из трех\bin\Debug\net6.0\Второе из трех.deps.json
+C:\Users\Максим\Desktop\Seminar\Второе из трех\bin\Debug\net6.0\Второе из трех.runtimeconfig.json
+C:\Users\Максим\Desktop\Seminar\Второе из трех\bin\Debug\net6.0\Второе из трех.dll
+C:\Users\Максим\Desktop\Seminar\Второе из трех\bin\Debug\net6.0\Второе из трех.pdb
+C:\Users\Максим\Desktop\Seminar\Второе из трех\obj\Debug\net6.0\Второе из трех.dll
+C:\Users\Максим\Desktop\Seminar\Второе из трех\obj\Debug\net6.0\refint\Второе из трех.dll
+C:\Users\Максим\Desktop\Seminar\Второе из трех\obj\Debug\net6.0\Второе из трех.pdb
+C:\Users\Максим\Desktop\Seminar\Второе из трех\obj\Debug\net6.0\Второе из трех.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Seminar\Второе из трех\obj\Debug\net6.0\ref\Второе из трех.dll
